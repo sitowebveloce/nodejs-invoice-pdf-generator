@@ -1,0 +1,17 @@
+{
+    "name": "nodejs-easy-invoice-fattura-facile",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "author": "gd",
+    "license": "MIT",
+    "dependencies": {
+        "easyinvoice": "^1.0.108",
+        "express": "^4.17.1"
+    }
+}
